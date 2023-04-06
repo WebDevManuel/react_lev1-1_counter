@@ -1,0 +1,20 @@
+.App {
+    text-align: center;
+}
+
+.counter{
+    background-color: #777164;
+    color: #DCD494;
+    padding:50px;
+}
+
+.counter__btn{
+    width: 30%;
+    margin: 0 10%;
+    background-color:#8AB696;
+    border-width: 0;
+}
+
+.counter__btn--reset{
+    background-color: #EA594C;
+}
